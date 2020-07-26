@@ -1,1 +1,1 @@
-"#pythontelebot" 
+"# Py-stocks bot" 
